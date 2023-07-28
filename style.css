@@ -1,0 +1,23 @@
+.active {
+  color :rgb(68, 73, 73);
+  border-bottom: 1px solid transparent;
+  text-align: center;
+  text-decoration: none;
+  background-color:azure;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+ 
+
+}
+
+form {
+   
+    padding: 2rem;
+    border-radius: 1rem;
+    background-color: hsl(0, 0%, 100%);
+    border: 4px solid hsl(0, 0%, 90%);
+    color:black;
+	  font-family: roboto;
+	  text-align: center;
+    
+  }
+  
